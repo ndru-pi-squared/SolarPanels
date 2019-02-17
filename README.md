@@ -1,3 +1,3 @@
 # SolarPanels
 
-This was one of the questions on the Foo Bar challenge
+This was one of the problems to solve on the Foo Bar challenge
